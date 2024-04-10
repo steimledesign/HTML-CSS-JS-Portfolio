@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
     <meta name="viewport" content="with=device-with, internal-scale=1.0">
     <title>my portfolio made in vs code</title>
     <link rel="stylesheet" href="styles.css">
@@ -35,7 +35,7 @@
         </section>
         <section>
             <h2>Contact</h2>
-            <p>Email linkedin </p>
+            <p>Email linkedin</p>
         </section>
     </main>
     <footer>&copy; 2024 Robert Steimle. all rights reserved.</footer>
