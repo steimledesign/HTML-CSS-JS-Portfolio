@@ -25,6 +25,13 @@
             <h2>Portfolio</h2>
             <p>pleace fell free to contact me if you can see ways to make my work better. I allways want to get better.</p>
         </section>
+        <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fre);
+            gap: 1rem;
+        }
+        </style>
         <section>
             <h2>About</h2>
             <p>Mama told me when I was young
